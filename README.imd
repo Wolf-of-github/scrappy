@@ -1,2 +1,6 @@
 This project explores how scrappy works
 
+Use the following commnand to initialize a spider (something that crawls the web) 
+    - scrapy genspider bookspider books.toscrape.com
+
+Use ipython shell for quick lookups
